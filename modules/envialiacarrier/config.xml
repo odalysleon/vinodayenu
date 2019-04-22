@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>envialiacarrier</name>
+    <displayName><![CDATA[envialiacarrier]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Transportista ENVIALIA v1.0 - por ENVIALIA. M&amp;oacute;dulo que integra el sistema de env&amp;iacute;os ECOMM de ENVIALIA para Prestashop 1.7.x]]></description>
+    <author><![CDATA[Dinaprise]]></author>
+    <tab><![CDATA[shipping_logistics]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>¡PrestaShop se renueva! ¿Cuáles son las nuevas funcionalidades para este 2019?</title>
+    <link>https://www.prestashop.com/es/blog/nuevas-funcionalidades-prestashop</link>
+    <description>¿Quieres conocer todas las novedades de PrestaShop que te permitirán comenzar tu negocio online facilitándote aún más la vida en 2019?</description>
+     <pubDate>Wed, 17 Apr 2019 13:00:02 +0200</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/nuevas-funcionalidades-prestashop</guid>
+  </item>
+  <item>
+    <title>¿Cómo actualizar mi tienda de PrestaShop 1.6 a 1.7 paso a paso?</title>
+    <link>https://www.prestashop.com/es/blog/actualizar-prestashop-1-6-a-1-7</link>
+    <description>¿Tienes desactualizada la web de tu eCommerce y necesitas actualizar tu PrestaShop de la versión 1.6 a la 1.7?</description>
+     <pubDate>Mon, 15 Apr 2019 14:07:28 +0200</pubDate>
+ <dc:creator>Antonio Torres</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/actualizar-prestashop-1-6-a-1-7</guid>
+  </item>
+  <item>
+    <title>¿Cómo hacer una factura electrónica u online para tu tienda PrestaShop?</title>
+    <link>https://www.prestashop.com/es/blog/modulos-factura-electronica</link>
+    <description>¿Aún no te apoyas en herramientas profesionales para hacer facturas electrónicas dentro de la actividad de tu tienda online?</description>
+     <pubDate>Thu, 11 Apr 2019 13:57:36 +0200</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-factura-electronica</guid>
+  </item>
+  <item>
+    <title>5 Mejores módulos para crear un sistema de reservas online en PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/modulos-sistema-reservas-online</link>
+    <description>Los sistemas de reserva online son algo que no todo el mundo conoce y que, probablemente, a todo el mundo que tiene un eCommerce le convendría conocer y saber manejar.</description>
+     <pubDate>Tue, 09 Apr 2019 16:49:33 +0200</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-sistema-reservas-online</guid>
+  </item>
+  <item>
+    <title>Guía del módulo &amp;quot;Average Cart Booster&amp;quot; para hacer Cross-selling en tu tienda online</title>
+    <link>https://www.prestashop.com/es/blog/average-cart-booster</link>
+    <description>
+¿Has probado el módulo &quot;Average Cart Booster&quot; como modo de mejorar tu estrategia de comercio electrónico y, por tanto, tus ventas?</description>
+     <pubDate>Fri, 05 Apr 2019 16:48:45 +0200</pubDate>
+ <dc:creator>Antonio Torres</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/average-cart-booster</guid>
+  </item>
+  <item>
+    <title>¿En qué consisten las mejoras en la estabilidad de PrestaShop 1.7?</title>
+    <link>https://www.prestashop.com/es/blog/prestashop-1-7-estable</link>
+    <description>¡PrestaShop mejora la estabilidad de su última versión 1.7!</description>
+     <pubDate>Wed, 03 Apr 2019 17:31:18 +0200</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/prestashop-1-7-estable</guid>
+  </item>
+  <item>
+    <title>¿Qué es un código QR y cómo crearlos para tu tienda PrestaShop?</title>
+    <link>https://www.prestashop.com/es/blog/crear-codigo-qr</link>
+    <description>¿Aün no conoces las ventajas que podría tener el implementar códigos QR dentro de tu web?</description>
+     <pubDate>Sun, 31 Mar 2019 17:57:38 +0200</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/crear-codigo-qr</guid>
+  </item>
+  <item>
+    <title>¿Qué es una startup y cómo montar una sobre comercio electrónico?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-una-startup</link>
+    <description>Sin duda, habrás oído hablar de las startup y del éxito que este tipo de empresas están teniendo de unos años a esta parte.</description>
+     <pubDate>Wed, 27 Mar 2019 19:39:43 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-una-startup</guid>
+  </item>
+  <item>
+    <title>¿Qué es un slogan y cuáles son los mejores para tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/como-hacer-un-slogan</link>
+    <description>¿Tienes ya el slogan que usarás con tu tienda online?</description>
+     <pubDate>Wed, 27 Mar 2019 19:39:14 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/como-hacer-un-slogan</guid>
+  </item>
+  <item>
+    <title>Mega guía del módulo &amp;quot;Actualización de Prestashop y herramienta de migración&amp;quot;</title>
+    <link>https://www.prestashop.com/es/blog/actualizacion-prestashop-herramienta-migracion</link>
+    <description>¿Quieres actualizar PrestaShop a la versión 1.7 pero tienes problemas? ¿Quieres actualizar a un PrestaShop desde cero?
+¿Quieres montar otra tienda con el mismo catálogo?</description>
+     <pubDate>Tue, 26 Mar 2019 18:42:33 +0100</pubDate>
+ <dc:creator>Antonio Torres</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/actualizacion-prestashop-herramienta-migracion</guid>
+  </item>
+  </channel>
+</rss>
