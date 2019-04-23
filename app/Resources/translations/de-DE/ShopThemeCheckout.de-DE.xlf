@@ -549,12 +549,7 @@ File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:143</note>
         <target xml:lang="de">
 LIEFERTERMIN ERWARTET:[break]
 - Für Einkäufe in Spanien: 3 bis 6 Werktage seit der Bezahlung der Bestellung.[break]
-- Für Einkäufe in Europa: 5 bis 10 Werktage, seit der Bezahlung der Bestellung.[break]
-[break]
-BITTE BEACHTEN SIE, dass unsere Produkte aus verschiedenen Lagern stammen. Wir werden daher Ihre Einkäufe nach Kategorien gruppieren:[break]
-- Die Produkte unserer Kategorie VIN stammen aus unserem Lager in Cómpeta, Málaga.[break]
-- Die Produkte unserer Kategorie HAM UND WURST kommen aus unserem Lager in Guijuelo Salamanca.[break]
-- Produkte aus unserer OILS-Kategorie verlassen unser Lager in Priego de Córdoba, Córdoba.</target>
+- Für Einkäufe in Europa: 5 bis 10 Werktage, seit der Bezahlung der Bestellung.</target>
         <note>Context:
 File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:145</note>
       </trans-unit>

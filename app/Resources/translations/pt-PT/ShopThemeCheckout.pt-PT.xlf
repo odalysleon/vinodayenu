@@ -549,12 +549,7 @@ File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:143</note>
         <target xml:lang="pt">
 DATA PREVISTA PARA ENTREGA:[break]
 - Para compras na Espanha: de 3 a 6 dias hábeis desde que a cobrança do pedido é processada.[break]
-- Para compras na Europa: de 5 a 10 dias hábeis desde que a cobrança do pedido é processada dependendo do destino.[break]
-[break]
-Tenha em conta que nossos produtos saem de armazéns diferentes e por isso faremos entregas parciais de sua compra agrupada por categoria:[break]
-- Os produtos de nossa categoria: VINHOS saem desde nosso armazém em Cómpeta, Málaga.[break]
-- Os produtos de nossa categoria: JAMONES e EMBUTIDOS saem desde nosso armazém em Guijuelo, Salamanca.[break]
-- Os produtos de nossa categoria: Azeite saem desde nosso armazém em Priego de Córdoba, Córdoba.</target>
+- Para compras na Europa: de 5 a 10 dias hábeis desde que a cobrança do pedido é processada dependendo do destino.</target>
         <note>Context:
 File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:145</note>
       </trans-unit>

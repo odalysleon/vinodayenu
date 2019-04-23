@@ -549,12 +549,7 @@ File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:143</note>
         <target xml:lang="en">
 EXPECTED DATE OF DELIVERY:[break]
 - For purchases in Spain: from 3 to 6 working days from when the order is processed.[break]
-- For purchases in Europe: from 5 to 10 working days from when the order is collected depending on the destination.[break]
-[break]
-PLEASE TAKE NOTE that our products come from different warehouses and therefore we will do partial deliveries of your purchase grouped by categories:[break]
-- The products of our WINE category come from our warehouse in Cómpeta, Málaga.[break]
-- The products of our category HAMS AND SAUSAGES come from our warehouse in Guijuelo Salamanca.[break]
-- The products of our category OILS leave from our warehouse in Priego de Córdoba, Córdoba.</target>
+- For purchases in Europe: from 5 to 10 working days from when the order is collected depending on the destination.</target>
         <note>Context:
 File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:145</note>
       </trans-unit>

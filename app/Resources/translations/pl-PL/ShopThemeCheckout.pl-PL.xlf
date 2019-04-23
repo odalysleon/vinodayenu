@@ -549,12 +549,7 @@ File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:143</note>
         <target xml:lang="pl">
 DATA DOSTAWY:[break]
 - Zamowienie  zrobione  w Hiszpanii  dostarczamy  w termine od  3  do 6- ciu  dni / roboczych/  po otrzymaniu dowodu  wplaty za zakupiony  produkt.[break]
-- Produkty kupowane w  Europie dostarczane  sa od 5- ciu  do 10- ciu dni / roboczych po otrzymaniu  dowodu  wplaty  za  zakupiony  produkt.[break]
-[break]
-UWAGA: Produkty  ktore  wysylamy  z naszych  magazynow  sa podzielone  na kategorie:[break]
-- WINO:  Wysylamy z magazynow ktore  znajduja sie w Cómpeta, Málaga.[break]
-- SZYNKA  I WEDLINY:  Wysylamy  z magazynow   ktore  znajduja  sie  w Guijuelo Salamanca.[break]
-- OLEJE:  Wysylamy  z magazynow  ktore  znajduja  sie  w Priego de Córdoba, Córdoba.</target>
+- Produkty kupowane w  Europie dostarczane  sa od 5- ciu  do 10- ciu dni / roboczych po otrzymaniu  dowodu  wplaty  za  zakupiony  produkt.</target>
         <note>Context:
 File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:145</note>
       </trans-unit>

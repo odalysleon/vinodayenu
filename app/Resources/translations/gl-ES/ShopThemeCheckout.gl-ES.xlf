@@ -494,12 +494,7 @@ File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:143</note>
         <target xml:lang="gl">
 DATA DE ENTREGA ESPERADA:[break]
 - Para compras en España é de 3 a 6 días hábiles desde o momento da tramitación.[break]
-- Para compras en Europa: de 5 a 10 días laborables a partir do momento en que se recolle a orde en función do destino.[break]
-[break]
-Teña en conta que os nosos produtos proveñen de diferentes almacéns e, polo tanto, faremos entregas parciais da súa compra agrupadas por categorías:[break]
-- Os produtos da nosa categoría WINE proceden do noso almacén en Cómpeta, Málaga.[break]
-- Os produtos da nosa categoría HAMS E SAUCEAS veñen do noso almacén en Guijuelo Salamanca.[break]
-- Os produtos da nosa categoría OILS saen do noso almacén en Priego de Córdoba, Córdoba.</target>
+- Para compras en Europa: de 5 a 10 días laborables a partir do momento en que se recolle a orde en función do destino.</target>
         <note>Context:
 File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:145</note>
       </trans-unit>

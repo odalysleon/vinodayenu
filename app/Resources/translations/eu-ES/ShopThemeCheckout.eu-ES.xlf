@@ -293,12 +293,7 @@ File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:143</note>
         <target xml:lang="eu">
 ESKUZ EZAZU DATA:[break]
 - Espainian erosketak egiteko 3 eta 6 lanegunetan eskaera prozesatzen denean.[break]
-- Erosketak Europan: eskaera helmuga baten arabera jasotzen denetik 5 eta 10 egun baliodunetara.[break]
-[break]
-OHARRA: gure produktuak biltegi desberdinetakoak direla eta, beraz, zure erosketa partzialak partekatutako kategoriak banatuko ditugu:[break]
-- Gure ARDOAREN PRODUKTUAK gure produktutik etorriak dira Cómpeta-n, Malagan.[break]
-- Gure kategorian produktuak HAMAK ETA ZALDIAK gure Guijuelo Salamancako biltegitik datoz.[break]
-- Gure kategoria OILS produktuak gure biltegian utzi Priego de Córdoba, Kordoba.</target>
+- Erosketak Europan: eskaera helmuga baten arabera jasotzen denetik 5 eta 10 egun baliodunetara.</target>
         <note>Context:
 File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:145</note>
       </trans-unit>

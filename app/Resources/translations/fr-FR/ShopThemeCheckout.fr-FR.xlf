@@ -549,12 +549,7 @@ File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:143</note>
         <target xml:lang="fr">
 DATE DE LIVRAISON ATTENDUE:[break]
 - Pour les achats en Espagne: 3 à 6 jours ouvrables depuis le paiement de la commande est traitée.[break]
-- Pour les achats en Europe: 5 à 10 jours ouvrables depuis l'ordre de paiement est traitée en fonction de la destination.[break]
-[break]
-VEUILLEZ NOTER que nos produits proviennent d’entrepôts différents. Nous effectuerons donc des livraisons partielles de vos achats groupées par catégories:[break]
-- Les produits de notre catégorie VIN proviennent de notre entrepôt situé à Cómpeta, Málaga.[break]
-- Les produits de notre catégorie JAMBONS ET SAUCISSES proviennent de notre entrepôt situé à Guijuelo Salamanca.[break]
-- Les produits de notre catégorie HUILES partent de notre entrepôt à Priego de Córdoba, Córdoba.</target>
+- Pour les achats en Europe: 5 à 10 jours ouvrables depuis l'ordre de paiement est traitée en fonction de la destination.</target>
         <note>Context:
 File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:145</note>
       </trans-unit>

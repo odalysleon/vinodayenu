@@ -549,12 +549,7 @@ File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:143</note>
         <target xml:lang="it">
 TEMPI DI CONSEGNA PREVISTI:[break]
 - Per gli acquisti dalla Spagna : dai 3 ai 6 giorni lavorativi dall'arrivo dell'ordine.[break]
-- Per gli acquisti dall'Europa, a seconda della destinazione : dai 5 ai 10 giorni lavorativi dall'arrivo dell'ordine.[break]
-[break]
-MOLTO IMPORTANTE:  I nostri prodotti sono dislocati in zone diverse, quindi effettueremo le consegne dei vostri acquisti suddivise per categoria:[break]
-- VINO: Prodotti di provenienza magazzino situato a Competa, Malaga.[break]
-- PROSCIUTTI E SALUMI: Prodotti di provenienza  magazzino di Guijuelo, Salamanca.[break]
-- OLIO: Prodotti di provenienza magazzino di Priego di Cordova, Cordova.</target>
+- Per gli acquisti dall'Europa, a seconda della destinazione : dai 5 ai 10 giorni lavorativi dall'arrivo dell'ordine.</target>
         <note>Context:
 File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:145</note>
       </trans-unit>

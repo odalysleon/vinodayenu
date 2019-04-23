@@ -549,12 +549,7 @@ File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:143</note>
         <target xml:lang="hr">
 OČEKIVANO VREME ISPORUKE:[break]
 - Za kupovinu iz Španije od  3 do 6 radnih dana od dolaska porudžbina.[break]
-- Za kupovinu iz Evrope, u zavisnosti od odredišta, od 5 do 10 radnih dana od dolaska porudžbina.[break]
-[break]
-VEOMA VAŽNO: naši proizvodi se nalaze u različitim zonama onda ćemo isporuciti Vaše kupovine po kategoijama:[break]
-- VINA: Proizvodi iz skladišta koji se nalaze  u Competa, Malaga.[break]
-- ŠUNKE I SALAME: Proizvodi iz skladišta koji se nalaze u Guijuelo, Salamanca.[break]
-- ULJE: Proizvodi iz skladišta koji se nalaze u Priego iz Cordoba, Cordoba.</target>
+- Za kupovinu iz Evrope, u zavisnosti od odredišta, od 5 do 10 radnih dana od dolaska porudžbina.</target>
         <note>Context:
 File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:145</note>
       </trans-unit>

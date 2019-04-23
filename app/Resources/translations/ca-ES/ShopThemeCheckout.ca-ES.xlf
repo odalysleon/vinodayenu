@@ -490,12 +490,7 @@ File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:143</note>
         <target xml:lang="ca">
 DATA PREVISTA DE LLIURAMENT:[break]
 - Per compres a Espanya és 3 a 6 dies hàbils des que el cobrament de la comanda és processat.[break]
-- Per compres a Europa: de 5 a 10 dies hàbils des que el cobrament de la comanda és processat depenent de la destinació.[break]
-[break]
-TINGUI EN COMPTE que els nostres productes surten de magatzems diferents i per tant farem lliuraments parcials de la seva compra agrupades per categories:[break]
-- Els productes de la nostra categoria VI surten des del nostre magatzem a Cómpeta, Màlaga.[break]
-- Els productes de la nostra categoria PERNILS I EMBOTITS surten des del nostre magatzem a Guijuelo Salamanca.[break]
-- Els productes de la nostra categoria OLIS surten des del nostre magatzem a Priego de Còrdova, Còrdova.</target>
+- Per compres a Europa: de 5 a 10 dies hàbils des que el cobrament de la comanda és processat depenent de la destinació.</target>
         <note>Context:
 File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:145</note>
       </trans-unit>
