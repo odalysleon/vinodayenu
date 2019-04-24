@@ -367,8 +367,8 @@ File: themes/classic/templates/checkout/_partials/steps/shipping.tpl:123</note>
 File: themes/StarterTheme/templates/checkout/_partials/steps/shipping.tpl:160</note>
       </trans-unit>
       <trans-unit id="2a601fc0d1647ecdbd0ac37cf9f90181" approved="yes">
-        <source>Le recomendamos que realice varios pedidos con un peso menor a 90 kg para obtener los productos que desea.</source>
-        <target>Le recomendamos que realice varios pedidos con un peso menor a 90 kg para obtener los productos que desea.</target>
+        <source>Le recomendamos que realice varios pedidos con un peso menor a %weight% kg para obtener los productos que desea.</source>
+        <target>Le recomendamos que realice varios pedidos con un peso menor a %weight% kg para obtener los productos que desea.</target>
         <note>Context:
 File: themes/StarterTheme/templates/checkout/_partials/steps/shipping.tpl:161</note>
       </trans-unit>

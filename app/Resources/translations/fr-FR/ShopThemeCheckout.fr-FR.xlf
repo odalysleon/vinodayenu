@@ -577,13 +577,13 @@ File: themes/StarterTheme/templates/checkout/_partials/steps/shipping.tpl:80</no
       </trans-unit>
       <trans-unit id="9a605fc0d1647ebdbd0ac37cf9f90489" approved="yes">
         <source>El peso del pedido no puede exceder los 90kg.</source>
-        <target xml:lang="fr">Le poids de la commande ne peut dépasser 90 kg.</target>
+        <target xml:lang="fr">Le poids de la commande ne peut dépasser %weight% kg.</target>
         <note>Context:
 File: themes/StarterTheme/templates/checkout/_partials/steps/shipping.tpl:160</note>
       </trans-unit>
       <trans-unit id="2a601fc0d1647ecdbd0ac37cf9f90181" approved="yes">
-        <source>Le recomendamos que realice varios pedidos con un peso menor a 90 kg para obtener los productos que desea.</source>
-        <target xml:lang="fr">Nous vous recommandons de passer plusieurs commandes pesant moins de 90 kg pour obtenir les produits que vous souhaitez.</target>
+        <source>Le recomendamos que realice varios pedidos con un peso menor a %weight% kg para obtener los productos que desea.</source>
+        <target xml:lang="fr">Nous vous recommandons de passer plusieurs commandes pesant moins de %weight% kg pour obtenir les produits que vous souhaitez.</target>
         <note>Context:
 File: themes/StarterTheme/templates/checkout/_partials/steps/shipping.tpl:161</note>
       </trans-unit>

@@ -577,13 +577,13 @@ File: themes/StarterTheme/templates/checkout/_partials/steps/shipping.tpl:80</no
       </trans-unit>
       <trans-unit id="9a605fc0d1647ebdbd0ac37cf9f90489" approved="yes">
         <source>El peso del pedido no puede exceder los 90kg.</source>
-        <target xml:lang="hr">Težina narudžbe ne može biti veća od 90 kg.</target>
+        <target xml:lang="hr">Težina narudžbe ne može biti veća od %weight% kg.</target>
         <note>Context:
 File: themes/StarterTheme/templates/checkout/_partials/steps/shipping.tpl:160</note>
       </trans-unit>
       <trans-unit id="2a601fc0d1647ecdbd0ac37cf9f90181" approved="yes">
-        <source>Le recomendamos que realice varios pedidos con un peso menor a 90 kg para obtener los productos que desea.</source>
-        <target xml:lang="hr">Preporučujemo da naručite više narudžbi težine manje od 90 kg da biste dobili željene proizvode.</target>
+        <source>Le recomendamos que realice varios pedidos con un peso menor a %weight% kg para obtener los productos que desea.</source>
+        <target xml:lang="hr">Preporučujemo da naručite više narudžbi težine manje od %weight% kg da biste dobili željene proizvode.</target>
         <note>Context:
 File: themes/StarterTheme/templates/checkout/_partials/steps/shipping.tpl:161</note>
       </trans-unit>
