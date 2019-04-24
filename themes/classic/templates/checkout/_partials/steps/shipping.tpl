@@ -156,9 +156,12 @@
             </form>
             
         {else}
-            {if $weightExceeded}
-                <p class="alert alert-danger">{l s='El peso del pedido no puede exceder los 90kg.' d='Shop.Theme.Checkout'}</p>
-                <p class="alert alert-info">{l s='Le recomendamos que realice varios pedidos con un peso menor a 90 kg para obtener los productos que desea.' d='Shop.Theme.Checkout'}</p>
+            {if $weightExceeded == 'national'}
+                <p class="alert alert-danger">{l s='El peso del pedido no puede exceder los %weight% kg.' sprintf=['%weight%' => 90] d='Shop.Theme.Checkout'}</p>
+                <p class="alert alert-info">{l s='Le recomendamos que realice varios pedidos con un peso menor a %weight% kg para obtener los productos que desea.' sprintf=['%weight%' => 90] d='Shop.Theme.Checkout'}</p>
+            {elseif $weightExceeded == 'international'}
+                <p class="alert alert-danger">{l s='El peso del pedido no puede exceder los %weight% kg.' sprintf=['%weight%' => 250] d='Shop.Theme.Checkout'}</p>
+                <p class="alert alert-info">{l s='Le recomendamos que realice varios pedidos con un peso menor a %weight% kg para obtener los productos que desea.' sprintf=['%weight%' => 250] d='Shop.Theme.Checkout'}</p>
             {else}
                 <p class="alert alert-danger">{l s='Unfortunately, there are no carriers available for your delivery address.' d='Shop.Theme.Checkout'}</p>
             {/if}

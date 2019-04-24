@@ -51,9 +51,17 @@ class CheckoutDeliveryStep extends CheckoutDeliveryStepCore
 
             }
         }
-        
-        $totalWeight = $this->getCheckoutSession()->getCart()->getTotalWeight();
-        
+        $cart = $this->getCheckoutSession()->getCart();
+        $totalWeight = $cart->getTotalWeight();
+        $weightExceeded = false;
+        if(empty($options)){
+            $address = Address::getCountryAndState($cart->id_address_delivery);
+            $isoCountry = Country::getIsoById($address['id_country']);
+
+            if($isoCountry == 'ES' && $totalWeight > 250)$weightExceeded = 'national';
+            else if($isoCountry != 'ES' && $totalWeight > 90)$weightExceeded = 'international';
+        }
+
         return $this->renderTemplate(
             $this->getTemplate(),
             $extraParams,
@@ -76,7 +84,7 @@ class CheckoutDeliveryStep extends CheckoutDeliveryStepCore
                     ),
                     'message' => $this->getCheckoutSession()->getGift()['message'],
                 ),
-                'weightExceeded' => $totalWeight <= 90 ? false : true,
+                'weightExceeded' => $weightExceeded,
                 'totalWeight' => $totalWeight
             )
         );
